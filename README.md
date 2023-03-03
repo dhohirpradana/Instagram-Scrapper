@@ -1,5 +1,3 @@
-# Python-Youtube-Search-Scraper
+# Instagram-Scrapper
 
-Scrape YouTube video with details whatever scroll you want
-
-![alt text](https://github.com/dhohirpradana/Python-Youtube-Search-Scraper/blob/master/sample_output.png?raw=true)
+Scrape Instagram HashTags with details whatever scroll you want
